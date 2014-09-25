@@ -1,0 +1,19 @@
+# Router API
+
+Scripts to replace the web-ui for routers. Can be used to automatically apply
+and update settings to routers.
+
+# Usage
+
+* Edit the file matching the model of router you're trying to change.
+* Set the values at the top of the file to the desired values.
+* Run the file on any machine connected to the router, eg `python tp-link_wd-8950n.py`
+
+# Supported routers
+
+* [TP-LINK TD-W8950N](http://www.tp-link.com/en/products/details/?model=TD-W8960N)
+
+## Disclaimer
+
+Use at your own risk. This could damage your router if you don't know what
+you're doing.
